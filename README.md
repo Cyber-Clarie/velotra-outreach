@@ -4,7 +4,7 @@ A local-first CRM and outreach management system built for managing creator rela
 
 Built with Python, Flask, SQLite, and Ollama.
 
-## 🚀 Features
+ 🚀 Features
 
 - Creator CRM
 - Bulk creator import
